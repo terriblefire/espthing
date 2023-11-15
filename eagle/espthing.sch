@@ -13595,10 +13595,10 @@ diameter 5 mm, grid 2.54 mm</description>
 <part name="C2" library="microbuilder" deviceset="CAP_CERAMIC" device="1206" value="10uF"/>
 <part name="12VPWR" library="SparkFun-Retired" deviceset="JUMPER-2" device="PTH" value="EXT12v"/>
 <part name="X1" library="SparkFun-Retired" library_urn="urn:adsk.eagle:library:533" deviceset="DB25_FEMALE" device="HP" package3d_urn="urn:adsk.eagle:package:41386042/1"/>
-<part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2"/>
-<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2"/>
-<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2"/>
-<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2"/>
+<part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1uF"/>
+<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1uF"/>
+<part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1uF"/>
+<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1uF"/>
 <part name="C89" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="CPOL-US" device="B" package3d_urn="urn:adsk.eagle:package:6240479/1" value="22uF"/>
 <part name="C7" library="microbuilder" deviceset="CAP_CERAMIC" device="1206" value="0.1uF"/>
 <part name="C8" library="microbuilder" deviceset="CAP_CERAMIC" device="1206" value="0.1uF"/>
