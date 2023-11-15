@@ -2,7 +2,11 @@
 
 A stupid ESP thing i made for Erik Hemming
 
+![Schematic](images/schematic.png)
+
 Its an Amiga Serial Port to ESP01 breakout with the potential to power from the amiga serial port.
+
+![Board](images/board.png)
 
 The Amiga Serial port says it can do 20mA at 12V. Which is likely sufficent to power the ESP01 and the MAX3232 @ 3.3v. In the event its not sufficient there is a breakout for the power supply and an optional diode is there to protect the Amiga.
 
