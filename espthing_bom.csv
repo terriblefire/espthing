@@ -1,11 +1,11 @@
-"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"CHECK_PRICES";"DESCRIPTION";"MF";"MP";"PACKAGE";"POPULARITY";"PRICE";"PROD_ID";"PURCHASE-URL";"SNAPEDA_LINK";"SPICEPREFIX";"VALUE";
-"1";"";"DB25_FEMALEHP";"F25HP";"X1";"25 Pin male connector. PCB edge mount for regular PCB thicknesses. This connector will connect directly to the back of a PC parallel port or through a normal DB25 extension cable (M/F). SKU: PRT-08287";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"1";"";"PINHD-2X4";"2X04";"ESPHEADER";"PIN HEADER";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"2";"0.1uF";"CAP_CERAMIC1206";"1206";"C7, C8";"Ceramic Capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"2";"10uF";"CAP_CERAMIC1206";"1206";"C1, C2";"Ceramic Capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"4";"1uF";"C-EUC1206";"C1206";"C3, C4, C5, C6";"CAPACITOR, European symbol";"";"";"";"";"";"";"54";"";"";"";"";"C";"";
-"1";"22uF";"CPOL-USB";"PANASONIC_B";"C89";"POLARIZED CAPACITOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"1";"EXT12v";"JUMPER-2PTH";"1X02";"12VPWR";"Jumper";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"1";"LM1117-3.3";"V_REG_LM1117SOT223";"SOT223";"IC2";"Voltage Regulator LM1117";"";"";"";"";"";"";"";"";"VREG-08170";"";"";"";"";
-"1";"MAX3232";"MAX2323SOIC16";"SO16";"U1";"RS232 Transceiver";"";"";"";"";"";"";"";"";"IC-08171";"";"";"";"MAX3232";
-"1";"SMD-DIODE-SWITCHING-75V-150MA(D1206)";"SMD-DIODE-SWITCHING-75V-150MA(D1206)";"LED-1206";"D1";"304040005 Check availability";"In Stock";"https://www.snapeda.com/parts/CD1206-S01575/Bourns+-+J.W.+Miller/view-part/?ref=eda";" CD1206-S01575, SMT Switching Diode, 100V 150mA, 4ns, 2-Pin 1206 | Bourns CD1206-S01575 ";"Bourns";"CD1206-S01575";"1206 Bourns";"";"None";"";"https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=42622&manufacturer=Bourns&part_name=CD1206-S01575&search_term=None";"https://www.snapeda.com/parts/CD1206-S01575/Bourns+-+J.W.+Miller/view-part/?ref=snap";"";"";
+Qty,Value,Device,Package,Parts,Description
+1,,DB25_FEMALEHP,F25HP,X1,25 Pin Female Connector.
+1,,PINHD-2X4,2X04,ESPHEADER,2 x 4 PIN HEADER
+2,0.1uF,CAP_CERAMIC1206,1206,"C7, C8",Ceramic Capacitors
+2,10uF,CAP_CERAMIC1206,1206,"C1, C2",Ceramic Capacitors
+4,1uF,C-EUC1206,1206,"C3, C4, C5, C6",50V Capacitory
+1,22uF,CPOL-USB,PANASONIC_B,C89,"POLARIZED CAPACITOR, American symbol"
+1,EXT12v,JUMPER-2PTH,1X02,12VPWR,Jumper
+1,LM1117-3.3,V_REG_LM1117SOT223,SOT223,IC2,Voltage Regulator LM1117
+1,MAX3232,MAX2323SOIC16,SO16,U1,RS232 Transceiver
+1,SMD-DIODE-SWITCHING-75V-150MA(D1206),SMD-DIODE-SWITCHING-75V-150MA(D1206),LED-1206,D1,304040005 Check availability
